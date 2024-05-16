@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhamad Barhan H</h1>
+<h1 align="center">Hi 👋, I'm Muhamad Barhan </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadbarhan&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadbarhan" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React , Node**
 
-- 📫 How to reach me **muhamadbarhan02@gmail.com**
+- 📫 Contact me on **muhamadbarhan02@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FxDWwFdVYKCgTGqPfiBXv5EWG14Hra3e/view?usp=drivesdk](https://drive.google.com/file/d/1FxDWwFdVYKCgTGqPfiBXv5EWG14Hra3e/view?usp=drivesdk)
 
