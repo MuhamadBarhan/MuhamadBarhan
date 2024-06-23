@@ -10,7 +10,7 @@
 
 - 📫 Visit my portfolio <a href="https://muhamadbarhan.vercel.app">Click here<a/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FxDWwFdVYKCgTGqPfiBXv5EWG14Hra3e/view?usp=drivesdk](https://drive.google.com/file/d/1FxDWwFdVYKCgTGqPfiBXv5EWG14Hra3e/view?usp=drivesdk)
+- 📄 View my resume [Click here](https://drive.google.com/file/d/1HdfoZAhShi7mmGDvseMvdjBosWcCZrGc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
