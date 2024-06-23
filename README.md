@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React , Node**
 
-- 📫 Visit my portfolio <a href="muhamadbarhan.vercel.app">Click here<a/>
+- 📫 Visit my portfolio <a href="https://muhamadbarhan.vercel.app">Click here<a/>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FxDWwFdVYKCgTGqPfiBXv5EWG14Hra3e/view?usp=drivesdk](https://drive.google.com/file/d/1FxDWwFdVYKCgTGqPfiBXv5EWG14Hra3e/view?usp=drivesdk)
 
