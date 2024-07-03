@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhamad Barhan </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<img align="center" src="https://media.tenor.com/_mYZWyrW3AUAAAAi/peach-goma-pc-night-keyboard-smashing.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadbarhan&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadbarhan" /> </p>
 
 
