@@ -24,51 +24,37 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4>#Frontend</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,flutter&perline=15" />
-  </a>
 </p>
 
 <h4>#Backend</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,npm,express,spring,php,mongodb,mysql,firebase,&perline=15" />
-  </a>
 </p>
 
 <h4>#Version Control</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github&perline=15" />
-  </a>
 </p>
 
 <h4>#Other Tools</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,vite,figma,ps,vscode,vercel,unity,blender&perline=15" />
-  </a>
 </p>
 
 <h4>#Programming Languages</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,c&perline=15" />
-  </a>
 </p>
 
 <h4>#OS</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,kali,ubuntu&perline=15" />
-  </a>
 </p>
 
 <h4>#IOT</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&perline=15" />
-  </a>
 </p><br>
 
 <h3 align="left">Support:</h3>
