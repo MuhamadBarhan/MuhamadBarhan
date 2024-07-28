@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **React , Node**
+- 💬 muhamadbarhan02@gmail.com
 
 - 📫 Visit my portfolio <a href="https://muhamadbarhan.vercel.app">Click here<a/>
 
