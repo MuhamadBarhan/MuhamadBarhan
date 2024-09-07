@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadbarhan&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadbarhan" /> </p>
 
 
-- 🌱 I’m currently learning **Spring Boot**
+<h2>About Me</h2>
+
+Hi, I'm Muhamad Barhan , a passionate full-stack developer with a focus on building dynamic websites and apps. Currently pursuing a B.Tech in Information Technology, I'm constantly expanding my knowledge in web development technologies like React, Node.js, and Spring Boot, along with mobile app development using Flutter.
+
+I enjoy solving problems with code, and I’ve worked on various projects, including e-commerce platforms and user management systems. My curiosity drives me to explore the latest trends in technology, always aiming to create innovative and efficient digital solutions.<br><br><br>
 
 - 💬 muhamadbarhan02@gmail.com
 
