@@ -43,7 +43,7 @@ I enjoy solving problems with code, and I’ve worked on various projects, inclu
 
 <h4>#Other Tools</h4>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postman,vite,figma,ps,vscode,vercel,unity,blender&perline=15" />
+    <img src="https://skillicons.dev/icons?i=postman,vite,figma,docker,ps,vscode,vercel,unity,blender&perline=15" />
 </p>
 
 <h4>#Programming Languages</h4>
