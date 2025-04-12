@@ -63,7 +63,7 @@ I enjoy solving problems with code, and I’ve worked on various projects, inclu
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/muhamadbarhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muhamadbarhan" /></a></p><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamadbarhan&show_icons=true&locale=en&layout=compact" alt="muhamadbarhan" /></p><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamadbarhan&show_icons=true&locale=en&layout=compact" alt="muhamadbarhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadbarhan&" alt="muhamadbarhan" /></p>
 
