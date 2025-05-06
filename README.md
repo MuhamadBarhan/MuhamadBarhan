@@ -67,7 +67,6 @@ I enjoy solving problems with code, and I’ve worked on various projects, inclu
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadbarhan&" alt="muhamadbarhan" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=muhamadbarhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 
