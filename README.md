@@ -9,7 +9,7 @@ Hi, I'm Muhamad Barhan , a passionate full-stack developer with a focus on build
 
 I enjoy solving problems with code, and I’ve worked on various projects, including e-commerce platforms and user management systems. My curiosity drives me to explore the latest trends in technology, always aiming to create innovative and efficient digital solutions.<br><br><br>
 
-- 💬 muhamadbarhan02@gmail.com
+- 💬 Contact me at muhamadbarhan02@gmail.com
 
 - 📫 Visit my portfolio <a href="https://muhamadbarhan.vercel.app">Click here<a/>
 
