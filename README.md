@@ -7,7 +7,7 @@
 
 Hi, I'm Muhamad Barhan , a passionate full-stack developer with a focus on building dynamic websites and apps. A recent graduate in B.Tech Information Technology, constantly expanding knowledge in web development technologies like React, Node.js, and Spring Boot, along with mobile app development using Flutter.
 
-I enjoy solving problems with code, and I’ve worked on various projects, including e-commerce platforms and user management systems. My curiosity drives me to explore the latest trends in technology, always aiming to create innovative and efficient digital solutions.<br><br><br>
+I enjoy solving problems with code, my curiosity drives me to explore the latest trends in technology, always aiming to create innovative and efficient digital solutions.<br><br><br>
 
 - 💬 Contact me at muhamadbarhan02@gmail.com
 
