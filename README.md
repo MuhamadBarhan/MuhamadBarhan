@@ -13,7 +13,7 @@ I enjoy solving problems with code, my curiosity drives me to explore the latest
 
 - 📫 Visit my portfolio <a href="https://muhamadbarhan.vercel.app">Click here<a/>
 
-- 📄 View my resume [Click here](https://drive.google.com/file/d/1HdfoZAhShi7mmGDvseMvdjBosWcCZrGc/view?usp=drive_link)
+- 📄 View my resume [Click here](https://drive.google.com/file/d/1QdFj1KR_59w-8AZ54V0OCzkz1Zcr9qZA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
